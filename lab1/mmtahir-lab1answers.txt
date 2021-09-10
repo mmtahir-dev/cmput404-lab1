@@ -1,0 +1,8 @@
+Q1. https://github.com/mmtahir-dev
+Q2. 2.26.0
+Q3. 2.26.0
+Q4. No difference
+Q5. 301. Use http://www.google.com/ to get 200
+Q6. Error 404. 301 for -i and -iL. Error 418 for http://www.google.com/teapot
+Q7. We add form contents MiniFieldStorage.We override GET and send our own request.
+Q8. https://raw.githubusercontent.com/mmtahir-dev/cmput404-lab1/master/lab1.py
